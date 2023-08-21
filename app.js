@@ -1,7 +1,7 @@
 const functions = require('./functions.js')
-//console.log(functions);
+console.log(functions);
 
-console.log(functions.add(10,100));
-console.log(functions.substract(10,8));
-console.log(functions.multiply(152,8));
-console.log(functions.divide(2,504));
+console.log(functions.add(50,155));
+console.log(functions.substract(89,54));
+console.log(functions.multiply(236,845));
+console.log(functions.divide(123,897));
